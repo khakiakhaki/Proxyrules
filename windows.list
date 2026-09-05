@@ -1,0 +1,8 @@
+# DESC : windows ruleset
+
+- PROCESS-NAME,SunloginClient
+- PROCESS-NAME,SunloginClient.exe
+- PROCESS-NAME,AnyDesk
+- PROCESS-NAME,AnyDesk.exe
+- PROCESS-NAME,easytier.exe
+- PROCESS-NAME,easytier-core.exe

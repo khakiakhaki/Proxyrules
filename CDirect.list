@@ -1,0 +1,4 @@
+# DESC : custom direct connect 
+
+- DOMAIN-SUFFIX,*.edu.cn
+- DOMAIN-SUFFIX,c-z0-api-01.hash070.com

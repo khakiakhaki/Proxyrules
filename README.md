@@ -17,16 +17,18 @@
 | 📈 券商服务 | 🇭🇰 香港节点 | DIRECT、节点选择、PROXY |
 | 🌍 非中国 | PROXY | 节点选择、DIRECT、日本节点 |
 | 🐟 漏网之鱼 | PROXY | 节点选择、DIRECT、日本节点 |
-
+| 🔬 科研网站 | DIRECT | 节点选择、PROXY |
+| ⤴ 自定代理 | PROXY  | 节点选择、PROXY |
+| ➡ 自定直连 | DIRECT | 节点选择、PROXY | 
 ## 快速开始
 
 1. 复制配置文件的 Raw 链接：
-   `https://raw.githubusercontent.com/LingJingMaster/Shadowrocket-Rules/refs/heads/main/Shadowrocket.conf`
+   `https://raw.githubusercontent.com/khakiakhaki/Proxyrules/refs/heads/main/Shadowrocket.conf`
 2. 打开 Shadowrocket → 配置 → 右上角 `+` → 粘贴链接 → 下载
 3. 点击已下载的配置，设为使用中（✔️）
 4. 首页添加你自己的节点或订阅
 5. 连通性测试，选择可用节点连接
-
+ ⤴
 或者扫描二维码
 
 <img width="200" height="200" alt="ctool-2026-02-26-17-13-16" src="https://github.com/user-attachments/assets/22f1b4f7-3265-493c-9e5a-2b662924ed2f" />
@@ -53,6 +55,9 @@
 | 16 | 🔒 国内服务 | DIRECT |
 | 17 | 🌍 非中国（境外流量） | PROXY |
 | 18 | GEOIP CN | DIRECT |
+| 19 | 🔬 科研网站 | DIRECT | 节点选择、PROXY |
+| 20 | ⤴ 自定代理 | PROXY  | 节点选择、PROXY |
+| 21 | ➡ 自定直连 | DIRECT | 节点选择、PROXY | 
 | 19 | 🐟 漏网之鱼（兜底） | PROXY |
 
 ## 规则集来源

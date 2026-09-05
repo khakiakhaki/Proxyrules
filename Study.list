@@ -1,0 +1,33 @@
+# NAME: ResearchJournal
+# DESC: research journal list 
+# UPDATED: 2026-9-5
+
+
+- DOMAIN-SUFFIX,nature.com
+- DOMAIN-SUFFIX,springer.com
+- DOMAIN-SUFFIX,springernature.com
+- DOMAIN-SUFFIX,cdnsciencepub.com
+- DOMAIN-SUFFIX,academic.oup.com
+- DOMAIN-SUFFIX,sciencedirect.com
+- DOMAIN-SUFFIX,plos.org
+- DOMAIN-SUFFIX,frontiersin.org
+- DOMAIN-SUFFIX,mdpi.com
+- DOMAIN-SUFFIX,biomedcentral.com
+- DOMAIN-SUFFIX,elsevier.com
+- DOMAIN-SUFFIX,cshlp.org
+- DOMAIN-SUFFIX,wiley.com
+- DOMAIN-SUFFIX,acs.org
+- DOMAIN-SUFFIX,cnki.net
+- DOMAIN-SUFFIX,tandfonline.com
+- DOMAIN-SUFFIX,csiro.au
+- DOMAIN-SUFFIX,clarivate.com
+- DOMAIN-SUFFIX,annualreviews.org
+- DOMAIN-SUFFIX,jstor.org
+- DOMAIN-SUFFIX,rsc.org
+- DOMAIN-SUFFIX,clarivate.com
+- DOMAIN-SUFFIX,webofscience.com
+- DOMAIN-SUFFIX,webofknowledge.com
+- DOMAIN-SUFFIX,liebertpub.com
+- DOMAIN-SUFFIX,science.org
+- DOMAIN-SUFFIX,worldscientific.com
+- DOMAIN-SUFFIX,geoscienceworld.org
